@@ -10,7 +10,7 @@
 - Css<br>
 - Bootstrap5<br>
 - Javascript<br>
-- eact<br>
+- React<br>
 - Git and Github.<br>
 - Project Management.<br>
 
