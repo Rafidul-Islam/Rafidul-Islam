@@ -2,8 +2,8 @@
 - 👋 Hi, I’m @Rafidul-Islam<br>
 - 👀 I’m interested in Web development.<br>
 - 🌱 I’m currently learning front-end web deevelopment.<br>
-- 📫 You can reach me through my email.My email address is (rafid.iconic@gmail.com).<br>
 - 😜I love to unscrew any elecrtronic component.But can't put it back.
+- 📫 You can reach me through my email.My email address is (rafid.iconic@gmail.com).<br>
 
 <h1>Skills</h1>
 - Html<br>
@@ -18,7 +18,7 @@
 👨🏾‍💻i want to serve people through my skills.Skills that will create great impact in peoples life.
 
 <h1>Education</h1>
-📖I finished my college in 2022.
+📖I finished my college in 2022 and currently studying in Daffodil International University on Software Engineering and Product Management.
 
 <h1>Languages:</h1>
 -🇧🇩 Bangla : Native<br>
