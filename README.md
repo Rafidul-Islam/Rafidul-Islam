@@ -8,7 +8,7 @@
 <h1>Skills</h1>
 - Html<br>
 - Css<br>
-- Bootstrap5<br>
+- TailwindCSS<br>
 - Javascript<br>
 - React<br>
 - Git and Github.<br>
