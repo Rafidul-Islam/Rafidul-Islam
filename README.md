@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Rafidul-Islam<br>
 - 👀 I’m interested in Web development.<br>
 - 🌱 I’m currently learning front-end web deevelopment.<br>
-- 😜I love to unscrew any elecrtronic component.But can't put it back.
+- 😜I love to unscrew any elecrtronic component.But can't put it back.<br>
 - 📫 You can reach me through my email.My email address is (rafid.iconic@gmail.com).<br>
 
 <h1>Skills</h1>
