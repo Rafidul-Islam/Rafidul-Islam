@@ -22,7 +22,7 @@
 
 <h1>Languages:</h1>
 -🇧🇩 Bangla : Native<br>
--🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced<br>
+-🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate<br>
 -🇮🇳 Hindi : Intermediate<br>
 
 <h1>Hobby</h1>
