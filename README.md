@@ -14,16 +14,13 @@
 - Git and Github.<br>
 - Project Management.<br>
 
-<h1>Career Objective</h1>
-👨🏾‍💻I want to serve people through my skills. Skills that will create great impact in peoples life.
-
 <h1>Education</h1>
 📖I finished my college in 2022 and currently studying at Daffodil International University in Software Engineering and Product Management.
 
 <h1>Languages:</h1>
 -🇧🇩 Bangla : Native<br>
--🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Intermediate<br>
--🇮🇳 Hindi : Intermediate<br>
+-🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Fluent<br>
+-🇮🇳 Hindi : Fluent<br>
 
 <h1>Hobby</h1>
 🎮Playing Video games.<br>
