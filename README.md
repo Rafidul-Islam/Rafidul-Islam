@@ -15,8 +15,8 @@
 - Project Management.<br>
 
 <h1>Education</h1>
-Software Engineering and Product Management.
-Daffodil International University. 
+Software Engineering and Product Management<br>
+Daffodil International University 
 
 <h1>Languages:</h1>
 -🇧🇩 Bangla : Native<br>
