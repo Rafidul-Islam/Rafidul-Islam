@@ -15,7 +15,7 @@
 - Project Management.<br>
 
 <h1>Education</h1>
-Software Engineering and Product Management<br>
+Software Engineering<br>
 Daffodil International University 
 
 <h1>Languages:</h1>
