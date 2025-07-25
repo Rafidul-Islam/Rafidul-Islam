@@ -15,10 +15,10 @@
 - Project Management.<br>
 
 <h1>Career Objective</h1>
-👨🏾‍💻I want to serve people through my skills.Skills that will create great impact in peoples life.
+👨🏾‍💻I want to serve people through my skills. Skills that will create great impact in peoples life.
 
 <h1>Education</h1>
-📖I finished my college in 2022 and currently studying in Daffodil International University on Software Engineering and Product Management.
+📖I finished my college in 2022 and currently studying at Daffodil International University in Software Engineering and Product Management.
 
 <h1>Languages:</h1>
 -🇧🇩 Bangla : Native<br>
