@@ -15,7 +15,8 @@
 - Project Management.<br>
 
 <h1>Education</h1>
-📖I finished my college in 2022 and currently studying at Daffodil International University in Software Engineering and Product Management.
+Software Engineering and Product Management.
+Daffodil International University. 
 
 <h1>Languages:</h1>
 -🇧🇩 Bangla : Native<br>
